@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.DS_Store
+# Plaintext source of the protected content; only the encrypted payload.js is published.
+content.html
